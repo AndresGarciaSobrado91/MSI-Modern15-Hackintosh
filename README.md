@@ -32,4 +32,6 @@
 - Touchpad working great with macOS gestures
 - Keyboard HotKeys working
 - Screen backlight adjustment working
+- Battery sensor working
+- Hardware sensors working
 
