@@ -1,8 +1,8 @@
-# MSI Modern15 Hackintosh
+# MSI Modern 15 Hackintosh
 
 <center> <img src="https://user-images.githubusercontent.com/48637183/97509517-45e3a100-1961-11eb-8b88-13e770de3ab3.jpg" width="90%"></img> </center>
 
-**WORK IN PROGRESS PROJECT**
+**WORK IN PROGRESS**
  Anyway it is a very stable version so far.
 
 <center> <img src="https://user-images.githubusercontent.com/48637183/97511103-03bc5e80-1965-11eb-95d4-dca10be01a68.jpg" width="90%"></img>  </center>
