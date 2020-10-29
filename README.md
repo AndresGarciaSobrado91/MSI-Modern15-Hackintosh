@@ -29,7 +29,7 @@
 
 - OS: **macOS Catalina v10.15.7**
 - Bootloader: **OPENCORE**
-- Everything is working except for the SD card reader
+- Everything is working except for the SD card reader and the camera
 - Touchpad working great with macOS gestures
 - Keyboard HotKeys working
 - Screen backlight adjustment working
