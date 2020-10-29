@@ -2,8 +2,8 @@
 
 <center> <img src="https://user-images.githubusercontent.com/48637183/97509517-45e3a100-1961-11eb-8b88-13e770de3ab3.jpg" width="90%"></img> </center>
 
-WORK IN PROGRESS PROJECT
-Anyway it is a very stable version so far.
+**WORK IN PROGRESS PROJECT**
+ Anyway it is a very stable version so far.
 
 <center> <img src="https://user-images.githubusercontent.com/48637183/97511103-03bc5e80-1965-11eb-95d4-dca10be01a68.jpg" width="90%"></img>  </center>
 
@@ -26,6 +26,7 @@ Anyway it is a very stable version so far.
 
 # Hack status
 
+- OS: **macOS Catalina v10.15.7**
 - Bootloader: **OPENCORE**
 - Everything is working except for the SD card reader
 - Touchpad working great with macOS gestures
