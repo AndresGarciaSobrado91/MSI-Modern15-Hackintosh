@@ -23,7 +23,7 @@
 - 1x Type-C (USB3.2 Gen1 / DP)
 - 1x Type-A USB3.2 Gen1
 - 2x Type-A USB3.2 Gen2
-- Camera **Not working**
+- Camera > **Not working**
 
 # Hack status
 
