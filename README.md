@@ -1,4 +1,4 @@
-# MSI Modern15 Hackintosh
+# MSI Modern 15 Hackintosh
 
 <center> <img src="https://user-images.githubusercontent.com/48637183/97509517-45e3a100-1961-11eb-8b88-13e770de3ab3.jpg" width="90%"></img> </center>
 
