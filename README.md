@@ -15,10 +15,10 @@ Anyway it is a very stable version so far.
 - Display 15.6" FHD (1920x1080), IPS-Level
 - 16GB DDR4 RAM
 - Storage M.2 SSD 512GB
-- Wireless board Wireless-AC 9462 **Working WIFI & Bluetooth**
+- Wireless board Wireless-AC 9462 > **Working WIFI & Bluetooth**
 - Touchpad I2C HID multitouch
 - Keyboard PS2 White backlight
-- 1x Micro SD **Not working**
+- 1x Micro SD > **Not working**
 - 1x (4K @ 30Hz) HDMI
 - 1x Type-C (USB3.2 Gen1 / DP)
 - 1x Type-A USB3.2 Gen1
@@ -27,7 +27,8 @@ Anyway it is a very stable version so far.
 # Hack status
 
 - Bootloader: **OPENCORE**
-- Everything is working except for the SD card reader.
-- Touchpad working great with macOS gestures.
-- Keyboard HotKeys working.
+- Everything is working except for the SD card reader
+- Touchpad working great with macOS gestures
+- Keyboard HotKeys working
+- Screen backlight adjustment working
 
