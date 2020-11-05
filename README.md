@@ -38,5 +38,5 @@
 
 # Important
 
--For camera to work you need to update your BIOS to version E1551IMS.10D (2020-10-19)
+- For camera to work you need to update your BIOS to version E1551IMS.10D (2020-10-19)
 
