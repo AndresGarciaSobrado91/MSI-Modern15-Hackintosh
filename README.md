@@ -15,7 +15,7 @@
 - Display 15.6" FHD (1920x1080), IPS-Level
 - 16GB DDR4 RAM
 - Storage M.2 SSD 512GB
-- Wireless board Wireless-AC 9462 > **Working WIFI & Bluetooth**
+- Wireless board Wireless-AC 9462 (labeled as AC9560) > **Working WIFI & Bluetooth**
 - Touchpad I2C HID multitouch
 - Keyboard PS2 White backlight
 - 1x Micro SD > **Not working**
