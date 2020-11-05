@@ -23,7 +23,7 @@
 - 1x Type-C (USB3.2 Gen1 / DP)
 - 1x Type-A USB3.2 Gen1
 - 2x Type-A USB3.2 Gen2
-- Camera > **Not working**
+- Camera 720p > **Working**
 
 # Hack status
 
@@ -35,4 +35,8 @@
 - Screen backlight adjustment working
 - Battery sensor working
 - Hardware sensors working
+
+# Important
+
+-For camera to work you need to update your BIOS to version E1551IMS.10D (2020-10-19)
 
