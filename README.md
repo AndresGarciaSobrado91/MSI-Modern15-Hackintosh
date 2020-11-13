@@ -11,7 +11,7 @@
 
 - Model: A10M
 - CPU Core i5 10210u
-- Graphics Intel UHD 620
+- Graphics Intel UHD 620 **HDMI Working**
 - Display 15.6" FHD (1920x1080), IPS-Level
 - 16GB DDR4 RAM
 - Storage M.2 SSD 512GB
@@ -28,7 +28,7 @@
 # Hack status
 
 - OS: **macOS Catalina v10.15.7**
-- Bootloader: **OPENCORE**
+- Bootloader: **OPENCORE 0.6.3**
 - Everything is working except for the SD card reader
 - Touchpad working great with macOS gestures
 - Keyboard HotKeys working
@@ -40,3 +40,6 @@
 
 - For camera to work you need to update your BIOS to version E1551IMS.10D (2020-10-19)
 
+# Thanks
+
+- **hla63** for helping to enable HDMI https://github.com/hla63
