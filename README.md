@@ -11,7 +11,7 @@
 
 - Model: A10M
 - CPU Core i5 10210u
-- Graphics Intel UHD 620 **HDMI Working**
+- Graphics Intel UHD 620 > **HDMI Working**
 - Display 15.6" FHD (1920x1080), IPS-Level
 - 16GB DDR4 RAM
 - Storage M.2 SSD 512GB
