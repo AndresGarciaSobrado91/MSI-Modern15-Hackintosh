@@ -27,7 +27,7 @@
 
 # Hack status
 
-- OS: **macOS Catalina v10.15.7**
+- OS: **macOS Big Sur v11.0.1**
 - Bootloader: **OPENCORE 0.6.3**
 - Everything is working except for the SD card reader
 - Touchpad working great with macOS gestures
@@ -38,7 +38,8 @@
 
 # Important
 
-- For camera to work you need to update your BIOS to version E1551IMS.10D (2020-10-19)
+- Update your BIOS to version E1551IMS.10D (2020-10-19)
+- For WIFI managment use HeliPort (included)
 
 # Thanks
 
