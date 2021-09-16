@@ -26,7 +26,7 @@
 
 - OS: **macOS Big Sur v11.1**
 - Bootloader: **OPENCORE 0.6.5**
-- Everything is working except for the SD card reader
+- Everything is working except for the Led Mute
 - Touchpad working great with macOS gestures
 - Keyboard HotKeys working
 - Screen backlight adjustment working
