@@ -24,8 +24,8 @@
 
 # Hack status
 
-- OS: **macOS Big Sur v11.1**
-- Bootloader: **OPENCORE 0.6.5**
+- OS: **macOS Big Sur v11.5.1**
+- Bootloader: **OPENCORE v0.7.4**
 - Everything is working except for the Led Mute
 - Touchpad working great with macOS gestures
 - Keyboard HotKeys working
@@ -37,7 +37,8 @@
 
 - Update your BIOS to version E1551IMS.10E
 - For WIFI managment install HeliPort (included)
+- Don't update VoodooPS2Controller.kext (from v2.2.5 onwards it produces OS crash after wake up, disabling kb until next good OS reboot)
 
 # Thanks
 
-- **hla63** for helping to enable HDMI https://github.com/hla63
+- **hla63** for helping to enable HDMI, SDCardReader and more: https://github.com/hla63
