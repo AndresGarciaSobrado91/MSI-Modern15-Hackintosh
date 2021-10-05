@@ -15,7 +15,7 @@
 - Wireless board Wireless-AC 9462 (labeled as AC9560) > **Working WIFI & Bluetooth**
 - Touchpad I2C HID multitouch
 - Keyboard PS2 White backlight
-- 1x Micro SD > **Not working**
+- 1x Micro SD > **Working** -> Use https://github.com/0xFireWolf/RealtekCardReader kext
 - 1x (4K @ 30Hz) HDMI
 - 1x Type-C (USB3.2 Gen1 / DP)
 - 1x Type-A USB3.2 Gen1
@@ -26,7 +26,7 @@
 
 - OS: **macOS Big Sur v11.1**
 - Bootloader: **OPENCORE 0.6.5**
-- Everything is working except for the SD card reader
+- Everything is working except for the Led Mute
 - Touchpad working great with macOS gestures
 - Keyboard HotKeys working
 - Screen backlight adjustment working
