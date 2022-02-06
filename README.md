@@ -12,7 +12,7 @@
 - Display 15.6" FHD (1920x1080), IPS-Level
 - 16GB DDR4 RAM
 - Storage M.2 SSD 512GB
-- Wireless board Wireless-AC 9462 (labeled as AC9560) > **Working WIFI & Bluetooth**
+- Wireless board Wireless-AC 9462 (labeled as AC9560) > **Working WIFI & Bluetooth** (Bluetooth may fail after sleep/awake)
 - Touchpad I2C HID multitouch
 - Keyboard PS2 White backlight
 - 1x Micro SD > **Working** -> Use https://github.com/0xFireWolf/RealtekCardReader kext
@@ -24,8 +24,8 @@
 
 # Hack status
 
-- OS: **macOS Big Sur v11.5.1**
-- Bootloader: **OPENCORE v0.7.4**
+- OS: **macOS Monterrey v12.2**
+- Bootloader: **OPENCORE v0.7.7**
 - Everything is working except for the Led Mute
 - Touchpad working great with macOS gestures
 - Keyboard HotKeys working
@@ -37,7 +37,6 @@
 
 - Update your BIOS to version E1551IMS.10E
 - For WIFI managment install HeliPort (included)
-- Don't update VoodooPS2Controller.kext (from v2.2.5 onwards it produces OS crash after wake up, disabling kb until next good OS reboot)
 
 # Thanks
 
