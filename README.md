@@ -12,7 +12,7 @@
 - Display 15.6" FHD (1920x1080), IPS-Level
 - 16GB DDR4 RAM
 - Storage M.2 SSD 512GB
-- Wireless board Wireless-AC 9462 (labeled as AC9560) > **Working WIFI & Bluetooth** (Bluetooth may fail after sleep/awake)
+- Wireless board Wireless-AC 9462 (labeled as AC9560) > **Working WIFI & Bluetooth** (Bluetooth may fail after sleep/awake only in Monterey)
 - Touchpad I2C HID multitouch
 - Keyboard PS2 White backlight
 - 1x Micro SD > **Working** -> Use https://github.com/0xFireWolf/RealtekCardReader kext
@@ -24,7 +24,7 @@
 
 # Hack status
 
-- OS: **macOS Monterrey v12.2**
+- OS: **macOS Monterey v12.2**
 - Bootloader: **OPENCORE v0.7.7**
 - Everything is working except for the Led Mute
 - Touchpad working great with macOS gestures
